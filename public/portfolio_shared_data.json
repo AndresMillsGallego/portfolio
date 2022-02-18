@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Andres Mills Gallego",
-      "titles": [ "Full StackSoftware Developer" ],
+      "titles": [ "Full Stack Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/AndresMillsGallego",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andres-mills-gallego/",
+          "class": "fab fa-linkedin-in"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Me.jpg"
     },
     "skills": {
       "icons": [
