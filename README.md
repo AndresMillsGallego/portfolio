@@ -1,3 +1,7 @@
-# Modify this portfolio
+# Andres Mills Gallego
 
-Make it your own! 
+Full Stack Developer <br>
+<https://andres-mills-gallego.netlify.app/> 
+
+Contact me! <br>
+<geneseewoodworking@gmail.com>
