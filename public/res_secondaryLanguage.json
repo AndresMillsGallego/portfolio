@@ -1,24 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Andres Mills Gallego. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola",
+      "description": "👋 Soy Andrés Mills Gallego. Soy un desarrollador de software de pila completa. También soy un inmigrante de primera generación de Colombia, América del Sur. Ahora vivo y trabajo en Seattle, Wa. Soy un carpintero de toda la vida al que le encanta aprender cosas nuevas. Mi experiencia es en la construcción, donde mis puntos fuertes fueron definitivamente la resolución de problemas y la implementación de la visión del cliente. Me apoyé en estas fortalezas, así como en mi amor por el lado creativo de la industria y comencé mi propio negocio hace 16 años. Cuando comencé, era el único empleado, pero después de muchos años de arduo trabajo y dedicación, hice crecer mi negocio hasta convertirlo en uno de los más respetados en el área. Muchas de las mismas habilidades que pude desarrollar siendo propietario de un negocio, artesano y contratista se traducen perfectamente en el mundo del desarrollo de software. La comunicación sólida, la capacidad de trabajar en equipo y la necesidad de resolver problemas cuando es necesario son habilidades que disfruto utilizar mientras trabajo como desarrollador de software. Gracias 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Acerca De Mi",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Catálogo de Coleccionista",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "Una aplicación que permite a un coleccionista catalogar su colección y todos los detalles pertinentes de sus artículos. El usuario también puede presentar su colección en el sitio para que pueda mostrar su colección para que otros la vean.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Collectors/CKForm.png",
+          "images/portfolio/Collectors/CKCatalog.png"
         ],
-        "url": "",
+        "url": "https://collectors-keepers.github.io/collectors-keepers/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Salmon Cookies",
         "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "description": "¡El infame proyecto Salmon Cookies! Este proyecto se creó con la idea de proporcionar datos al propietario de una tienda para pronosticar ventas potenciales. Este proyecto utiliza un buen equilibrio de HTML, JavaScript y una gran cantidad de CSS para diseñar.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/parisStore.png",
+          "images/portfolio/salmon-cookies/CookieStandTable.png"
         ],
-        "url": "https://github.com",
+        "url": "https://andresmillsgallego.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Lista de Quehaceres",
+        "startDate": "2021",
+        "description": "Este fue un proyecto personal que construí para practicar mis habilidades. Una simple lista de tareas pendientes que utilizó el almacenamiento local. Se vincula a github, spotify y tiene un modo oscuro que se puede activar/desactivar.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/to-do/ToDo.png",
+          "images/portfolio/to-do/ToDo2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://andresmillsgallego.github.io/To-Do-List/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
