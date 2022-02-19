@@ -21,16 +21,16 @@
         "url": "https://collectors-keepers.github.io/collectors-keepers/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -45,12 +45,16 @@
         "url": "https://andresmillsgallego.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           }
         ]
       },
@@ -65,53 +69,49 @@
         "url": "https://andresmillsgallego.github.io/To-Do-List/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML-5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Front-Stack Developer",
+        "years": "11.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Genesee Woodworking",
+        "title": "President",
+        "years": "02.2005 - 11.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Saws and Geometry"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "MeasureSquare",
+          "Festool",
+          "FatMax",
           "JavaScript",
-          "DHTMLX Gantt"
+          "DeWalt"
         ]
       }
     ]
