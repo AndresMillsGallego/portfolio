@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Collector Catalog",
+        "startDate": "2022",
+        "description": "An app that allows a collector to catalog their collection and all the pertinent details for their items.  The user is also able to render their collection onto the site so that they may display their collection for others to see.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Collectors/CKForm.png",
+          "images/portfolio/Collectors/CKCatalog.png"
         ],
-        "url": "",
+        "url": "https://collectors-keepers.github.io/collectors-keepers/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "The infamous Salmon Cookies project! This project was built with the idea of providing data to a store owner to forecast potential sales. This project uses a nice balance of HTML, JavaScript and a hefty does of CSS for styling",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/parisStore.png",
+          "images/portfolio/salmon-cookies/CookieStandTable.png"
         ],
-        "url": "https://github.com",
+        "url": "https://andresmillsgallego.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "To Do List",
+        "startDate": "2021",
+        "description": "This was a personal project that I built to practice my skills.  A simple To Do list that utilized local storage.  It links to github, spotify and has a dark mode that can be toggled on/off",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/to-do/ToDo.png",
+          "images/portfolio/to-do/ToDo2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://andresmillsgallego.github.io/To-Do-List/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
